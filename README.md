@@ -2,11 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=F7B4F8&width=435&lines=Hello+World!)](https://git.io/typing-svg) 
 
-![header]([https://vercel.app🎀🩷🫶🏻&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving&height=300&color=b85684&section=header&reversal=false&text=Sage%27s+World+%F0%9F%8E%80%F0%9F%A9%B7%F0%9F%AB%B6%F0%9F%8F%BB&textBg=false&fontColor=FFDEED&fontSize=70&fontAlign=50&fontAlignY=50&animation=twinkling&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60))
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=b85684&section=header&reversal=false&text=Sage%27s+World+%F0%9F%8E%80%F0%9F%A9%B7%F0%9F%AB%B6%F0%9F%8F%BB&textBg=false&fontColor=FFDEED&fontSize=70&fontAlign=50&fontAlignY=50&animation=twinkling&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60))
 
 ## 🌐 Socials
 
-[![Instagram](https://shields.io)](https://instagram.com/nil.codess)
+[![Instagram](https://instagram.com/nil.codess)
 
 </div>
 
