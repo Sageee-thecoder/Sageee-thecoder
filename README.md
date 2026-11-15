@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=F7B4F8&width=435&lines=Hello+World!)](https://git.io/typing-svg) 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Sage's+World+🎀🩷🫶🏻&fontSize=90) 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=350&section=header&text=Sage's+World+🎀🩷🫶🏻&fontSize=90) 
 
 ## 🌐 Socials
 
