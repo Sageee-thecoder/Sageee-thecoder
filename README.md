@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B4F8&width=435&lines=Hello+World!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=F7B4F8&width=435&lines=Hello+World!)](https://git.io/typing-svg)
 
 
 ## 🌐 Socials:
