@@ -83,3 +83,7 @@
   </picture>
 </div>
 
+### Hey, Sage! What are you listening?
+What am I listening??
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ydlde4qmglcsldxg5uxvkm6dlm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ffcfe0)](https://github.com/kittinan/spotify-github-profile)
