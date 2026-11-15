@@ -1,85 +1,87 @@
-<!-- 🎀 COQUETTE PASTEL HEADER -->
 <div align="center">
-  <img src="https://vercel.app" width="100%" />
 
-  <!-- ✨ TYPING SUBTITLE -->
-  <img src="https://demolab.com" alt="Typing SVG" />
+[![Typing SVG](https://demolab.com!)](https://git.io/typing-svg)
 
-  <br/>
+![header](https://vercel.app)
 
-  <!-- 🌸 SOCIALS -->
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://shields.io" />
-  </a>
+## 🌐 Socials
+
+[![Instagram](https://shields.io)](https://instagram.com/nil.codess)
+
 </div>
 
-<p align="center">─── ⋆⋅☆⋅⋆ ───</p>
+---
 
-<!-- 💻 TECH STACK -->
+## 💻 Tech Stack
+
+**Languages & Web**
+<br/>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+**Data Science & Machine Learning**
+<br/>
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://shields.io)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+**Databases & Cloud**
+<br/>
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+
+**Tools, DevOps & Hardware**
+<br/>
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <h3>୨୧ ˙⋆ My Tech & Tools ⋆˙ ୨୧</h3>
 
-  <p><b>🌸 Frontend & Design 🌸</b></p>
-  <p>
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
-  </p>
+![GitHub Stats](https://shion.dev)
+![Streak Stats](https://demolab.com)
 
-  <p><b>🍓 AI, Data & Python 🍓</b></p>
-  <p>
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
-  </p>
+![Top Langs](https://shion.dev)
 
-  <p><b>🧸 Backend, Databases & Cloud 🧸</b></p>
-  <p>
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
-  </p>
-
-  <p><b>🦋 Dev Tools & Hardware 🦋</b></p>
-  <p>
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
-  </p>
 </div>
 
-<p align="center">─── ⋆⋅☆⋅⋆ ───</p>
+---
 
-<!-- 📊 PASTEL GITHUB STATS -->
+### ✍️ Random Dev Quote
+
 <div align="center">
-  <h3>୨୧ ˙⋆ My GitHub Stats ⋆˙ ୨୧</h3>
 
-  <img height="175em" src="https://vercel.app" />
-  <img height="175em" src="https://vercel.app" />
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-  <br/><br/>
-
-  <!-- ✍ RANDOM DEV QUOTE (PASTEL STYLED) -->
-  <img src="https://vercel.app" />
-
-  <br/><br/>
-
-  <!-- 🐍 CONTRIBUTION SNAKE -->
-  <img src="https://githubusercontent.com" alt="snake animation" />
 </div>
 
-<!-- 🎀 MATCHING WAVING FOOTER -->
-<img src="https://vercel.app" width="100%" />
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com" />
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com" />
+  <img alt="github-snake" src="https://githubusercontent.com" />
+</picture>
+
+</div>
