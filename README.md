@@ -53,17 +53,12 @@
 
 ---
 
-## 📊 GitHub Stats
-
+ # 📊 GitHub Stats: 
 <div align="center">
-
-![GitHub Stats](https://shion.dev)
-![Streak Stats](https://demolab.com)
-
-![Top Langs](https://shion.dev)
+  
+(https://github-readme-stats.shion.dev/api?username=Sageee-thecoder&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://streak-stats.demolab.com/?user=Sageee-thecoder&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sageee-thecoder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
-
 ---
 
 ### ✍️ Random Dev Quote
