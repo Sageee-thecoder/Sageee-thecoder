@@ -78,8 +78,8 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com" />
-    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com" />
-    <img alt="github-snake" src="https://githubusercontent.com" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sageee-thecoder/Sageee-thecoder/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Sageee-thecoder/Sageee-thecoder/output/github-snake.svg" />
   </picture>
 </div>
 
